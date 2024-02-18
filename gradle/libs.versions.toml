@@ -1,0 +1,5 @@
+[versions]
+
+[libraries]
+
+gcloud-hawaii-libagent-stub = { module = "com.gabia.cloud.hawaii:libagent-stub", version = "0.0.0" }
